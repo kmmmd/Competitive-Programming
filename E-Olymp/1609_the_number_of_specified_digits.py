@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+f=str(b)
+d=str(a)
+print(d.count(f))

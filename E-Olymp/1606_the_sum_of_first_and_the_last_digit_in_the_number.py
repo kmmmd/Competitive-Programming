@@ -1,0 +1,5 @@
+a=abs(int(input()))
+a=str(a)
+a=list(map(int,list(a)))
+b=len(a)
+print(a[0]+a[b-1])
